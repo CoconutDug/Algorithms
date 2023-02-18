@@ -10,6 +10,7 @@
         "${workspaceFolder}/sort/sorting_functions.o",
         "${workspaceFolder}/utilities/files_utilities/file_utilities.o",
         "${workspaceFolder}/utilities/vector_utilities/utilities_vectors.o",
+        "${workspaceFolder}/search/searching_functions.o",
         "${file}",
         "-o",
         "${fileDirname}\\${fileBasenameNoExtension}.exe"
